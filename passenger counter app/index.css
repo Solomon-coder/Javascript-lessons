@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(192, 180, 180);
+}
+p {
+    font-weight: bold;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+#increment-btn {
+    padding: 10px;
+    background: rgb(235, 110, 235);
+    border: none;
+    border-radius: 3px;
+    width: 200px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+#save-btn {
+    padding: 10px;
+    background: rgb(240, 86, 145);
+    border: none;
+    border-radius: 3px;
+    width: 200px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+button:active {
+    width:190px;
+    height: 33px;
+}
+h1 {
+    font-size: 50px;
+    margin-bottom: 50px;
+
+}

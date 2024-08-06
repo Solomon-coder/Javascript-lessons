@@ -1,0 +1,16 @@
+body {
+    align-items: center;
+}
+#apple-shelf {
+    background: red;
+    width: 200px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+#orange-shelf {
+    background: orange;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}

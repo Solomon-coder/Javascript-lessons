@@ -1,0 +1,47 @@
+Body {
+    min-width: 400px;
+}
+
+#input-el {
+    width: 100%;
+    margin-bottom: 5px;
+    border: 1px solid #5f9341;
+    border-radius: 2px;
+    outline: none;
+    padding: 8px;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+#input-btn, #tab-btn {
+    color: white;
+    background: green;
+    border: none;
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+#delete-el {
+    color: green;
+    background: white;
+    border: 1px solid green;
+    padding: 9px 15px;
+    font-weight: bold;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+li a {
+    font-size: 18px;
+    color: #5f9341;
+}
+li {
+    margin-top: 5px;
+}
